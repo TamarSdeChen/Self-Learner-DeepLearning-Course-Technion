@@ -26,7 +26,7 @@ In inference, we show that Our self-learner method performs better than the clas
 <img src="/images/ResNet-18-architecture-20.png" width="650" height="300" />
 
 ### BYOL model: 
-<img src="./images/BYOL.png" width="650" height="300" />
+<img src="./images/BYOL.png" width="650" height="250" />
 
 ### Classifier:
 <img src="./images/classifier.png" width="550" height="300" />
