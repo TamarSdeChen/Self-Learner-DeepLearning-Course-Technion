@@ -1,1 +1,0 @@
-# Self-Learner-DeepLearning-Course-Technion
