@@ -33,7 +33,7 @@ In inference, we show that Our self-learner method performs better than the clas
 
 ## Results
 ###  Summary table for all the accuracy results in the project
-<img src="./images/results.png" width="400" height="400" />
+<img src="./images/results.png" width="350" height="200" />
 
 
 ## Files in the repository
