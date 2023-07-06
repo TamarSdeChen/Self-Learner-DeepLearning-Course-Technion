@@ -23,10 +23,10 @@ Afterward, we used transfer learning methods to transform the output from the BY
 In inference, we show that Our self-learner method performs better than the classic supervised learning models.
 ### An illustration for the architecture we used:
 ### ResNet18 network: 
-<img src="/images/ResNet-18-architecture-20.png" width="550" height="300" />
+<img src="/images/ResNet-18-architecture-20.png" width="650" height="300" />
 
 ### BYOL model: 
-<img src="./images/BYOL.png" width="550" height="300" />
+<img src="./images/BYOL.png" width="650" height="300" />
 
 ### Classifier:
 <img src="./images/classifier.png" width="550" height="300" />
