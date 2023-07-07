@@ -80,4 +80,4 @@ uploaded file's name.
 * [STL-10 dataset explanation by Stanford](https://cs.stanford.edu/~acoates/stl10/).
 * [Grill, Jean-Bastien, et al. "Bootstrap your own latent-a new approach to self-supervised learning." Advances in neural information processing systems 33 (2020): 21271-21284.](https://arxiv.org/abs/2006.07733).
 * [Chen, Ting, et al. "A simple framework for contrastive learning of visual representations." International conference on machine learning. PMLR, 2020.](https://arxiv.org/abs/2002.05709).
-[Chen, Xinlei, and Kaiming He. "Exploring simple siamese representation learning." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2021.](https://arxiv.org/pdf/2011.10566.pdf).
+* [Chen, Xinlei, and Kaiming He. "Exploring simple siamese representation learning." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2021.](https://arxiv.org/pdf/2011.10566.pdf).
